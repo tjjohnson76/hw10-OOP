@@ -6,3 +6,5 @@ In this assignment, I created a javascript file which would write new svg files 
 
 Link to video demo: 
 https://drive.google.com/file/d/1c7UoS4lbHdFUt0WTNecue3joyaYe8wiN/view 
+
+![screenshot of tests passing](./Assets/hw10-test.png)
